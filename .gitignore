@@ -1,0 +1,4 @@
+candidates.db
+email_log.csv
+__pycache__/
+*.log
